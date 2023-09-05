@@ -26,6 +26,7 @@ public class numPattern2 {
 
 
 /*
+OUTPUT-
 Enter n value:5
 1 
 1 2 
